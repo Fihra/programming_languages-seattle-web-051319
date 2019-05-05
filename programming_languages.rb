@@ -4,7 +4,7 @@ require 'pry'
   :language => {
   :type => interpreted/compiled
   :style => [:oo, :functional]
-} 
+}
 
 =end
 
