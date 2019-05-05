@@ -21,7 +21,7 @@ def reformat_languages(languages)
           type: value,
           style: [style]
         }
-        binding.pry
+        #binding.pry
       end
     end
   end
